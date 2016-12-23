@@ -1,11 +1,10 @@
 # vrnd-course2-starter-project-002
-Project 002 VR development at Udacity
+Project VR02
 
-Made by Michal Larsson / michael@ohsoweird.com
+Made by Michael Larsson / michael@ohsoweird.com
 
-It took me about four days over two occassion to complete the scene. 
-I really enjoyed the fact how quickly one can model a space with objects, lights and how characteristics of shadows make the scene appear very alive.
-The biggest challenge was the animation of the globe as it took an extensive amount of time to understand it and then to make it work. 
+Description: This VR experience positions the viewer inside a studio apartment in which he/she can navigate between a number of waypoints and thus experience the space from different perspectives.
 
+Updates:
 Version 1.1 - 2016-12-17 Fix: 3D Object placement & GlobeHolder made static object.
 Version 1.0 - 2016-12-16 Initial commit/upload
