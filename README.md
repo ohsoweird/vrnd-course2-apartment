@@ -7,4 +7,5 @@ Description: This VR experience positions the viewer inside a studio apartment i
 
 Updates:
 Version 1.1 - 2016-12-17 Fix: 3D Object placement & GlobeHolder made static object.
+
 Version 1.0 - 2016-12-16 Initial commit/upload
